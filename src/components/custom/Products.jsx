@@ -15,6 +15,7 @@ function Products() {
 
       setProducts(data);
       setFilteredProducts(data);
+      console.log(data)
 
       // Find max price for the range slider
       const max = Math.ceil(Math.max(...data.map((p) => p.price)));

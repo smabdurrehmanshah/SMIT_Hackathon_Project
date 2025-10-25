@@ -9,10 +9,10 @@ import AutoPlay from "embla-carousel-autoplay";
 
 function Hero() {
   const imagesData = [
-    "https://images.pexels.com/photos/265631/pexels-photo-265631.jpeg",
-    "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg",
+    "https://images.pexels.com/photos/1502216/pexels-photo-1502216.jpeg",
+    "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
     "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg",
-    "https://images.pexels.com/photos/556565/pexels-photo-556565.jpeg",
+    "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
   ];
   return (
     <Carousel
